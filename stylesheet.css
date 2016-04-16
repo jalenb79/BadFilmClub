@@ -6,7 +6,7 @@
 }
 
 
-.tabs > div {
+.tabs > a {
     display: inline;
     padding-top: 22px;
     padding-bottom: 22px;
