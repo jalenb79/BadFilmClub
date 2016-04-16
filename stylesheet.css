@@ -45,8 +45,11 @@ tabs {
 
 }
 
-.main {
-    height: 1000px;
-    background: lightgrey;
-    text-align: center;
+.twitter-timeline{
+  float:right;
+padding-top: 50px;
+padding-right: 50px;
+
 }
+
+
