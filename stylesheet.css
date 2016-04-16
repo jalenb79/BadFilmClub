@@ -1,38 +1,45 @@
-.top img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.top {
+   margin: auto;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    font-size: 72px;
 }
+tabs {
 
-.tabs > div {
-    padding-top: 13px;
-    padding-bottom: 13px;
-    text-align: center;
+}
+.tab1 {
     float: left;
     width: 20%;
-    font-size: 24px;
-    font-family: Dotum;
-    font-weight: 700;
-}
-
-.tab1 {
     background: red;
+    text-align: center;
 }
 
 .tab2 {
+    float: left;
+    width: 20%;
     background: green;
+    text-align: center;
 }
 
 .tab3 {
+    float: left;
+    width: 20%;
     background: orange;
+    text-align: center;
 }
 
 .tab4 {
+    float: left;
+    width: 20%;
     background: yellow;
+    text-align: center;
 }
 
 .tab5 {
+    float: left;
+    width: 20%;
     background: violet;
+    text-align: center;
 }
 
 .main {
