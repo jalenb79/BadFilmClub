@@ -1,0 +1,49 @@
+.top {
+   margin: auto;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    font-size: 72px;
+}
+tabs {
+
+}
+.tab1 {
+    float: left;
+    width: 20%;
+    background: red;
+    text-align: center;
+}
+
+.tab2 {
+    float: left;
+    width: 20%;
+    background: green;
+    text-align: center;
+}
+
+.tab3 {
+    float: left;
+    width: 20%;
+    background: orange;
+    text-align: center;
+}
+
+.tab4 {
+    float: left;
+    width: 20%;
+    background: yellow;
+    text-align: center;
+}
+
+.tab5 {
+    float: left;
+    width: 20%;
+    background: violet;
+    text-align: center;
+}
+
+.main {
+    height: 1000px;
+    background: lightgrey;
+    text-align: center;
+}
