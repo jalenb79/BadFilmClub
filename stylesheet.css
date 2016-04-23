@@ -2,9 +2,7 @@
     display: block;
     margin: auto;
     align-content: center;
-
 }
-
 
 .tabs > a {
     display: inline;
@@ -15,46 +13,53 @@
     float: left;
     width: 20%;
     position: relative;
-
 }
-tabs {
 
-}
+tabs {}
+
 .tab1 {
     background: red;
-
 }
 
 .tab2 {
     background: green;
-
 }
 
 .tab3 {
     background: orange;
-
 }
 
 .tab4 {
     background: yellow;
-
 }
 
 .tab5 {
     background: violet;
-
 }
 
-.twitter-timeline{
-  float:right;
-padding-top: 50px;
-padding-right: 50px;
-
+.twitter-timeline {
+    float: right;
+    padding-top: 50px;
+    padding-right: 50px;
 }
 
-.video1{
-	text-align: center;
-
+.video1 {
+    text-align: center;
 }
 
+.splitimage {
+    max-height: 100%;
+    max-width: 100%;
+    width: 33.3333%;
+    vertical-align: middle;
+}
 
+.keeptogether {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    line-height: 0;
+    word-spacing: -4px;
+    vertical-align: center;
+    background-color: #eee;
+}
