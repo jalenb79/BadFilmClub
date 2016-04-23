@@ -1,49 +1,46 @@
 .top {
-   margin: auto;
-    padding-top: 72px;
-    padding-bottom: 72px;
-    font-size: 72px;
-}
-tabs {
+    display: block;
+    margin: auto;
+    align-content: center;
 
 }
-.tab1 {
+
+
+.tabs1 > a {
+    display: inline;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-size: 22px;
+    text-align: center;
     float: left;
     width: 20%;
+    position: relative;
+
+}
+tabs1 {
+
+}
+.tab6 {
     background: red;
-    text-align: center;
+
 }
 
-.tab2 {
-    float: left;
-    width: 20%;
+.tab7 {
     background: green;
-    text-align: center;
+
 }
 
-.tab3 {
-    float: left;
-    width: 20%;
+.tab8 {
     background: orange;
-    text-align: center;
+
 }
 
-.tab4 {
-    float: left;
-    width: 20%;
+.tab9 {
     background: yellow;
-    text-align: center;
+
 }
 
-.tab5 {
-    float: left;
-    width: 20%;
+.tab10 {
     background: violet;
-    text-align: center;
-}
 
-.main {
-    height: 1000px;
-    background: lightgrey;
-    text-align: center;
 }
