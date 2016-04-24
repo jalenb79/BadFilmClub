@@ -1,18 +1,26 @@
+html, body {
+margin: 0;
+padding:0;
+}
+
 .top {
 	display: block;
 	margin: auto;
 	align-content: center;
-}
 
+
+
+}
 .tabs > a {
 	display: inline;
-	padding-top: 22px;
-	padding-bottom: 22px;
+	padding-top: 26px;
+	padding-bottom: 26px;
 	font-size: 22px;
 	text-align: center;
 	float: left;
 	width: 20%;
 	position: relative;
+	background-color: black;
 }
 .twitter-timeline {
 	float: right;
@@ -35,18 +43,24 @@
 	line-height: 0;
 	word-spacing: -4px;
 	vertical-align: center;
-	background-color: #eee;
+	background-color: silver;
 }
 .tabs a:link {
-	color: black;
+	color: white;
 	text-decoration: none
 }
 .tabs a:visited {
-	color: black;
+	color: white;
 }
 .tabs a:hover {
 	color: grey;
 }
 .tabs a:active {
 	color: white;
+}
+.main{
+	background-color: silver;
+		padding-top: 30px;
+	padding-bottom: 800px;
+
 }
