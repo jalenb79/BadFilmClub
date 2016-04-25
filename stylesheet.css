@@ -54,6 +54,7 @@ padding:0;
 }
 .tabs a:hover {
 	color: grey;
+	background-color:white;
 }
 .tabs a:active {
 	color: white;
